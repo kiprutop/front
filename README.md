@@ -1,2 +1,2 @@
 # front
-[google](google.com) this is google
+[google.com](https://www.google.com/)https://www.google.com/ this is google
